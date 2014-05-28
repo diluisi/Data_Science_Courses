@@ -12,8 +12,11 @@ Essentials:
 
 Data Science:
 
-[CS171 Visualization](http://cm.dce.harvard.edu/2014/02/24028/publicationListing.shtml)
-[CS109 Data Science](http://www.cs109.org/)
-[Monte Carlo for Inference and Data Analysis](http://isites.harvard.edu/icb/icb.do?keyword=k101149&pageid=icb.page654698)
-[CS109 Data Science](http://www.cs109.org/)
+* [CS171 Visualization](http://cm.dce.harvard.edu/2014/02/24028/publicationListing.shtml)
+
+* [CS109 Data Science](http://www.cs109.org/)
+
+* [Monte Carlo for Inference and Data Analysis](http://isites.harvard.edu/icb/icb.do?keyword=k101149&pageid=icb.page654698)
+
+* [CS109 Data Science](http://www.cs109.org/)
 
