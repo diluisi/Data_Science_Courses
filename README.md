@@ -20,3 +20,9 @@ Data Science:
 
 * [CS109 Data Science](http://www.cs109.org/)
 
+* [Site logoCS205 Computing Foundations for Computational Science](http://iacs-courses.seas.harvard.edu/courses/cs205/)
+
+* [Introduction to Statistical Methods](http://isites.harvard.edu/icb/icb.do?keyword=k97297&pageid=icb.page623313)
+
+* 
+
