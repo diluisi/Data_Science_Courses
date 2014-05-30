@@ -15,6 +15,9 @@ Essentials:
 
 * [Artificial Intelligence](https://www.edx.org/course/uc-berkeleyx/uc-berkeleyx-cs188-1x-artificial-579#.U4VRpfldWSo)
 
+* [Statistics 110: Probability](https://itunes.apple.com/us/course/statistics-110-probability/id502492375)
+
+* 
 
 
 
