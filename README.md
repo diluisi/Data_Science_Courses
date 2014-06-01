@@ -17,7 +17,7 @@ Essentials:
 
 * [Statistics 110: Probability](https://itunes.apple.com/us/course/statistics-110-probability/id502492375)
 
-* 
+* [Regular Expression](http://www.regexr.com/)
 
 
 
