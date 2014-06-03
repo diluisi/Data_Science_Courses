@@ -19,6 +19,8 @@ Essentials:
 
 * [Regular Expression](http://www.regexr.com/)
 
+* [Advanced Data Structures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/index.htm)
+
 
 
 
