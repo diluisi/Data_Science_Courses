@@ -21,7 +21,7 @@ Essentials:
 
 * [Advanced Data Structures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/index.htm)
 
-
+* [Software Architectures](http://sunset.usc.edu/classes/cs578_2012b/#textbooks)
 
 
 
